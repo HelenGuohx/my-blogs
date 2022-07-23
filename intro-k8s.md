@@ -8,7 +8,8 @@ Kubernetes was open-sourced in 2014 by Google. Google donated it to the [Cloud 
 Kubernetes cluster, just like any other distributed system,  consists of a central management role called control plane node and one or more executors that do all the dirty work. Those executors are called worker nodes
 
 The diagram of Kubernets architechture
-[!k8s-architechture-diagram](img/k8s-architechture-diagram.png?raw=true)
+
+![k8s-architechture-diagram](img/k8s-architechture-diagram.png)
 
 
 ## Control Plane Node
